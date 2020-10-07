@@ -88,7 +88,7 @@
           <img src="../dist/img/avatar5.png" class="img-circle" alt="User Image">
         </div>
         <div class="pull-left info">
-          <p>TT Incharge</p>
+          <p>TT Admin</p>
           <!-- Status -->
           <a href=""><i class="fa fa-circle text-success"></i> Online</a>
         </div>
